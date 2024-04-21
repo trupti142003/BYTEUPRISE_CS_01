@@ -1,39 +1,20 @@
-# Password Strength Checker 💪🔐
- 
+Password Strength Checker
+This project is a simple password strength checker implemented using HTML, CSS, and JavaScript. It allows users to evaluate the strength of their passwords in real-time.
 
-Welcome to the Password Strength Checker project! This powerful tool is designed to help you assess the strength of your passwords and ensure your online security.
+Features
+Real-time password strength evaluation.
+Visual feedback to indicate password strength.
+Easy to integrate into any web application.
 
-## Project Purpose 📋
+Files Included
+index.html: Contains the HTML structure of the password strength checker.
+style.css: Defines the styles for the HTML elements.
+script.js: Implements the JavaScript functionality for password strength evaluation.
 
-The purpose of this project is to provide you with an easy-to-use tool to evaluate the strength of your passwords. Whether you're creating a new password or checking the security of an existing one, our Password Strength Checker has you covered. With this tool, you can make sure your online accounts are safe from potential threats.
+Technologies Used
+HTML: Provides the structure of the password strength checker.
+CSS: Styles the HTML elements for a better user experience.
+JavaScript: Implements the logic for real-time password strength evaluation.
 
-## Design Tools 🎨
-
-We've used industry-standard design tools to create an intuitive and visually appealing user interface. Our design team leveraged Figma and Photoshop to craft a user-friendly experience.
-
-## Technologies Used 💻
-
-- HTML
-- CSS
-- JavaScript
-- jQuery
-- Bootstrap
-
-## Project Live Location 🌐
-
-You can access the live version of this project at [Password Strength Checker](https://password-strength.vercel.app/). Try it out and enhance your password security!
-
-📧 **Get in Touch**
-For inquiries, collaboration, or just to say hello, reach out to us at 📩 swamithedev@gmail.com.
-
-🌟 **Portfolio**
-Discover more of our fantastic projects at [SwamiTheDev Portfolio](https://swamithedev.vercel.app). Your journey into the world of technology starts here!
-
-
-## Thank You! 👏
-
-We appreciate you taking the time to explore our Password Strength Checker project. Your online security is our top priority, and we hope this tool helps you keep your accounts safe.
-
-## Hashtags 📌
-
-#PasswordStrength #Security #PasswordChecker #OnlineSecurity #WebDevelopment #CyberSecurity #TechProject #PasswordSafety #PasswordGenerator
+Screenshots
+![pss](https://github.com/trupti142003/BYTEUPRISE_CS_01/assets/142775954/7ccb9908-f234-44cb-a115-c3186f2787df)
